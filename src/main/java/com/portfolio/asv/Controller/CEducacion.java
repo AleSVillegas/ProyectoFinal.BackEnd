@@ -25,9 +25,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
+@CrossOrigin(origins = {"https://my-proyect-final-ap.web.app","http://localhost:4200"})
 @RequestMapping("/educacion")
-//@CrossOrigin(origins = {"https://asvfrontend.web.app","http://localhost:4200"})
-@CrossOrigin(origins = {"http://localhost:4200"})
+
 public class CEducacion {
     @Autowired
     Seducacion sEducacion;
