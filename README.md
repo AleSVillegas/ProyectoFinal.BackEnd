@@ -9,7 +9,7 @@ El objetivo principal de este proyecto fue desarrollar el backend del Portfolio 
 ### Diseño de la Base de Datos
 En este proyecto, se realizo el diseño conceptual, lógico y físico de la base de datos utilizando MySQL. Aplicamos los conceptos aprendidos sobre diseño de bases de datos para organizar y estructurar la información.
 
-![](https://i.postimg.cc/9F6K5ncQ/Php-My-Admin.png)
+[![Php-My-Admin.png](https://i.postimg.cc/9F6K5ncQ/Php-My-Admin.png)](https://postimg.cc/HVtBb3Jq)
 
 ![](https://i.postimg.cc/c1FYgT0c/My-SQL-Workbench.png)
 
